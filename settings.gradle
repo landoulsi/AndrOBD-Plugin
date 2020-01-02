@@ -1,2 +1,0 @@
-include ':MqttPublisher', ':CsvLogger', ':PluginHost', ':plugin', ':GpsProvider', ':SensorProvider'
-
